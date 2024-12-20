@@ -1,0 +1,9 @@
+Target: 
+Resolved IP: 
+Selected Protocol: Both
+Ports: 
+Start Port: 
+End Port: 
+Scan All Ports: False
+
+Results:
